@@ -72,4 +72,3 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/t
 =======
 # React_To-Do-List
 A simple to do list using React 
->>>>>>> 0593e57d511a1bb210e16afbb31bea7db50e67ba
