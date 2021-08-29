@@ -8,6 +8,7 @@ A simple to-do list using React
 ## :rocket: Installation
 
 - Go to 'to-do-list' directory: cd to-do-list
+- Then go to 'front-end' directory: cd front-end
 
 - Execute npm install
 
